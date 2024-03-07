@@ -4,7 +4,7 @@ MyClass::MyClass() {
 }
 
 MyClass::MyClass(int x_) { 
-  x = x_; 
+  x = x; 
 }
 
 int MyClass::getX() { 
