@@ -4,7 +4,7 @@
 using namespace std;
 
 int main () {
-  cout << "llo ld" << endl;
+  cout << "o ld" << endl;
 
   MyClass a(5);
   cout << a.getX() << endl;
